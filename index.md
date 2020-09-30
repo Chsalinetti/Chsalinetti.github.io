@@ -10,7 +10,7 @@ A paragraph about yourself (what High School you attended and so forth), what ar
 
 ### RIT Software Engineering Website
 
-[Link](url)
+[Link](se.rit.edu)
 
 ### Things I'd Like to Learn
 
