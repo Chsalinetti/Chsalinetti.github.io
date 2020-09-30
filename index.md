@@ -6,7 +6,7 @@ A paragraph about yourself (what High School you attended and so forth), what ar
 
 ### My Favorite Food
 
-![Image](src)
+![Image](https://thecozyapron.com/wp-content/uploads/2019/03/chicken-parmesan_thecozyapron_1.jpg)
 
 ### RIT Software Engineering Website
 
