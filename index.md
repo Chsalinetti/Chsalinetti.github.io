@@ -12,7 +12,7 @@ high school at Wahconah Regional High School. My intrests include classic rock (
 
 ### RIT Software Engineering Website
 
-![Link](https://www.se.rit.edu)
+https://www.se.rit.edu
 
 ### Things I'd Like to Learn
 
